@@ -1,2 +1,2 @@
 # Unity-Toolbox
- Useful generic classes and data structures
+ Simple and useful generic classes and data structures.
